@@ -1,0 +1,51 @@
+
+#header {
+  margin:0;
+  padding-left: 10%;
+  background-color: grey;
+}
+
+#new-post {
+  margin:0 10%;
+}
+
+#posts {
+  margin:0 10%;
+}
+
+.comment {
+  padding: 2px;
+  margin-bottom: 5px;
+  border-width: 1px;
+  text-align: left;
+  border-style: solid;
+}
+
+
+ h1 {
+  color: black;
+  font-size: 64;
+  
+}
+
+h2 {
+  color: darkgrey;
+  font-size: 32;
+}
+
+h3 {
+  margin-bottom: 0;
+  color: black;
+  font-size: 64;
+}
+
+p {
+    margin-top: 0;
+  }
+  
+
+
+textarea {
+  width: 100%;
+}
+
